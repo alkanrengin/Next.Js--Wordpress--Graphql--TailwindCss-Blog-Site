@@ -22,3 +22,7 @@ You can start editing the page by modifying pages/index.js. The page auto-update
 API routes can be accessed on http://localhost:3000/api/hello. This endpoint can be edited in pages/api/hello.js.
 
 The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
+ ## Application Videos
+ <p>
+<a href="https://github.com/alkanrengin/Next.Js--Wordpress--Graphql--TailwindCss-Blog-Site/blob/main/proje_video.mp4" target="_blank">
+<img src="https://github.com/alkanrengin/Next.Js--Wordpress--Graphql--TailwindCss-Blog-Site/blob/main/proje_video.mp4" width="300" style="max-width:200%;"></a>
