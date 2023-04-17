@@ -1,12 +1,19 @@
-# Next.Js--Wordpress--Graphql--TailwindCss-Blog-Site
+## Next.Js--Wordpress--Graphql--TailwindCss-Blog-Site
 This repo was created on how to create a headless WordPress site using Next.js as the frontend.
+## Languages and Technologies Used in this Project
+:arrow_right: HTML5 </br>
+:arrow_right: CSS3 </br>
+:arrow_right: JavaScript </br>
+:arrow_right: jQuery </br>
+:arrow_right: Bootstrap </br>
+<br/>
  
-# Getting Started
+## Getting Started
 First, run the development server:
 
-npm run dev
-#or
-yarn dev
+npm run dev <br>
+#or<br>
+yarn dev<br>
 
 Open http://localhost:3000 with your browser to see the result.
 
